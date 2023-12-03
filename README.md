@@ -24,11 +24,11 @@ Os verbos HTTP indicam as ações a serem realizadas em um recurso.
 
 Os códigos de status de resposta HTTP são indicadores numéricos enviados pelo servidor para informar o resultado de uma solicitação do cliente, agrupados em cinco classes:
 
-1. Respostas Informativas (100 – 199)
-2. Respostas Bem-sucedidas (200 – 299)
-3. Mensagens de Redirecionamento (300 – 399)
-4. Respostas de Erro do Cliente (400 – 499)
-5. Respostas de Erro do Servidor (500 – 599)
+100. Respostas Informativas 
+200. Respostas Bem-sucedidas 
+300. Mensagens de Redirecionamento 
+400. Respostas de Erro do Cliente 
+500. Respostas de Erro do Servidor 
 
 Exemplos incluem:
 
