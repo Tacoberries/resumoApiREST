@@ -1,6 +1,6 @@
-# Explorando as APIs REST e RESTful
+# APIs REST e RESTful
 
-As APIs RESTful, oferecem uma interface de programação de aplicações alinhada aos princípios da arquitetura REST (Representational State Transfer). Essa arquitetura, baseada em princípios fundamentais da web, utiliza uma abordagem cliente-servidor e identifica recursos por meio de URLs. A comunicação entre cliente e servidor se dá através de métodos HTTP, como GET, POST, PUT e DELETE, tornando as APIs RESTful escolhas comuns na construção de serviços web, aplicações móveis e integração de sistemas distribuídos.
+As APIs RESTful, oferecem uma interface de programação de aplicações alinhada aos princípios da arquitetura REST (Representational State Transfer). Essa arquitetura, baseada em princípios fundamentais da web, utiliza uma abordagem cliente-servidor e identifica recursos por meio de URLs. A comunicação entre cliente e servidor se dá através de métodos HTTP, como GET, POST, PUT e DELETE. As APIs RESTful são escolhas comuns na construção de serviços web, aplicações móveis e integração de sistemas distribuídos.
 
 ## Diferença entre REST e RESTful
 
